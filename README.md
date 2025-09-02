@@ -42,11 +42,11 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [AutoEDA App](#)
+### 🔹 [NLP Assistant](https://github.com/WaqasAhmed27/NLP-Assistant)
 
-An interactive **Streamlit app** for quick and automated exploratory data analysis.
+An interactive **Streamlit app** for quick and automated text processing.
 
-### 🔹 [Apex Quiz](#)
+### 🔹 [Apex Quiz](https://github.com/WaqasAhmed27/ApexQuiz)
 
 A **C# + MySQL quiz management system** with leaderboard, flashcards, and quiz stats.
 
