@@ -42,13 +42,13 @@
 
 ## 📌 Featured Projects
 
+### 🔹 [ParhAI](https://github.com/WaqasAhmed27/ParhAI)
+
+**ParhAI** - AI-powered educational platform with intelligent slide generation, real-time voice-enabled learning, and adaptive learning.
+
 ### 🔹 [NLP Assistant](https://github.com/WaqasAhmed27/NLP-Assistant)
 
-An interactive **Streamlit app** for quick and automated text processing.
-
-### 🔹 [Apex Quiz](https://github.com/WaqasAhmed27/ApexQuiz)
-
-A **C# + MySQL quiz management system** with leaderboard, flashcards, and quiz stats.
+An interactive application for quick and automated text processing.
 
 ---
 
