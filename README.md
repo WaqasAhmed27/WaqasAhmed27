@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waqas Ahmed
 
-💡 *A passionate learner, developer, and data enthusiast, most interested in AI, Data Science.*
+💡 *Learner, developer, and data enthusiast, currently lost in AI .*
 
 ---
 
