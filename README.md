@@ -1,70 +1,91 @@
 # 👋 Hi, I'm Waqas Ahmed
 
-💡 *Learner, developer, and data enthusiast, currently lost in AI .*
+🚀 Data Science student focused on **AI systems, machine learning, and real-world applications**.  
+I build intelligent products that combine **LLMs, data pipelines, and full-stack engineering**.
 
 ---
 
-## 🎨 Languages & Tools
+## 🧠 What I Do
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-  <!-- Frameworks & Libraries -->
-
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-  <!-- Databases & Tools -->
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-  <!-- IDEs -->
-
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>  
+- Build **AI-powered applications** (LLMs, agents, automation)
+- Design **data-driven systems** with real-world use cases
+- Develop **full-stack projects** integrating ML models into products
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 [ParhAI](https://github.com/WaqasAhmed27/ParhAI)
+### 🔹 ParhAI  
+AI-powered tutoring system that:
+- Generates structured slide presentations  
+- Narrates lessons using voice models  
+- Evaluates student responses and provides feedback  
 
-**ParhAI** - AI-powered educational platform with intelligent slide generation, real-time voice-enabled learning, and adaptive learning.
+> Focus: LLM integration, voice AI, adaptive learning  
 
-### 🔹 [NLP Assistant](https://github.com/WaqasAhmed27/NLP-Assistant)
+---
 
-An interactive application for quick and automated text processing.
+### 🔹 Multi-Agent Company Research System  
+Autonomous research pipeline using multiple AI agents:
+- Planner → Researcher → Financial Analyst → Report Generator  
+- Generates structured financial reports with validation  
+
+> Tech: Python, LangGraph, Gemini API, Yahoo Finance  
+
+---
+
+### 🔹 WhatsApp-Based Nutrition Tracker  
+AI assistant that:
+- Logs meals via text or images  
+- Estimates calories/macros  
+- Tracks nutrition goals via dashboard  
+
+> Tech: Python, Vision API, SQLite, Next.js  
+
+---
+
+### 🔹 NLP Assistant  
+Interactive tool for automated text processing and NLP tasks.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages  
+Python • C# • JavaScript • SQL  
+
+### AI / Data  
+TensorFlow • scikit-learn • Pandas • NumPy  
+
+### Backend & Systems  
+ASP.NET • Node.js • Express  
+
+### Databases  
+MySQL • SQLite • PostgreSQL  
+
+### Tools  
+Power BI • Excel • Git • GitHub  
+
+---
+
+## 🧩 Current Focus
+
+- Multi-agent AI systems  
+- LLM-powered applications  
+- Applied machine learning  
+- Building scalable AI products  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaqasAhmed27&show_icons=true&theme=swift" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.vercel.app/?user=WaqasAhmed27&theme=github_dark_blue" alt="GitHub Streak" height="160"/>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=WaqasAhmed27&show_icons=true&theme=swift" height="160"/>
+  <img src="https://streak-stats.vercel.app/?user=WaqasAhmed27&theme=github_dark_blue" height="160"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact
 
-* 📧 Email: *[vvaqasahmed27@gmail.com](mailto:vvaqasahmed27@gmail.com)*
-
----
+📧 vvaqasahmed27@gmail.com  
